@@ -1,0 +1,5 @@
+A editora On-line pretende exibir todo o seu acervo de livros por meio da internet. A home page exibe os lançamentos dos ultimos 30 dias. Estes livros deverão estar divididos
+por categoria e sobre cada livro de uma determinada categoria serão fornecidas informções tecnicas, como: autores, numero de paginas, preço e um pequeno resumo da obra.
+O site tambem devera permitir que o internauta pesquise um determinado livro por titulo, autor ou ISBN(codigo do livro). No que tange ao comercio eletronico, o site da editora On-line
+terá todas as etapas necessarias para a escolha de um ou mais livros a serem adquididos pela internet, em que o proprio internauta monta a sua cesta de compras, altera quantidades, indica o local da entrega etc.
+O frete devera ser calculado de acordo com a localidade que se encontra o cliente e uma vez encerrado o pedidio, este recebera um e-mail com a confirmação da compra.
