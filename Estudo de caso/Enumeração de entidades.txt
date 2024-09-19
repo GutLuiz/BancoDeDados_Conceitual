@@ -1,0 +1,7 @@
+- Editora
+- Livro
+- Categoria
+- Cliente
+- Autor
+- Venda
+- Endereço
