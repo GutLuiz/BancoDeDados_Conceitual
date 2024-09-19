@@ -1,0 +1,9 @@
+- Editora: ideditora(pk), nome.
+- Livro: idlivro, nome, data_lancamento, numero_padinas, preco, resumo, isbn.
+- Categoria: idcategoria, nome.
+- Cliente: idcliente, nome.
+- Autor: idautor, nome.
+- Venda: idvenda, quantidade, frete, valor_total.
+- Endereço: idendereco, logradouro, numero, cep.
+- cidade: idcidade, nome.
+- estado: idestado, nome.

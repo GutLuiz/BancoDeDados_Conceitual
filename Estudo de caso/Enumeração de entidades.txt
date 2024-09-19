@@ -5,3 +5,5 @@
 - Autor
 - Venda
 - Endereço
+- cidade
+- estado
