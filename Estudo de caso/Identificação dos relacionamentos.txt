@@ -1,3 +1,9 @@
-- Editora_tem_livro
-- Editora_tem_
+- Livro tem categoria
+- livro tem autor
+- venda possui livro
+- venda possui cliente
+- cliente tem endereço
+- endereço possui cidade
+- cidade esta em um estado
+
 
