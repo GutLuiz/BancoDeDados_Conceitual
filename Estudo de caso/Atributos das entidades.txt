@@ -1,4 +1,4 @@
-- Editora: ideditora(pk), nome.
+
 - Livro: idlivro, nome, data_lancamento, numero_padinas, preco, resumo, isbn.
 - Categoria: idcategoria, nome.
 - Cliente: idcliente, nome.
