@@ -1,0 +1,17 @@
+-> 1FN:
+    - Todos os atributos devem possuir apenas valores atomicos:
+    - O atributo não pode ser composto - devem ser subdivididos em atributos atomicos
+    - Atributos multivalorados devem fazer parte de outra tabela, que estara ligada com a a tabela original
+-> 2FN:
+    - Deve estar na FN1 e não possuir uma dependencia funcional parcial.
+    - Caso existam atributos que não dependam integralmente da chave primaria, devemos os retirar da tabela e dar origem a uma nova tabela
+-> 3FN:
+    - Deve estar na FN2 e não possuir dependencia funcional transitiva
+-> BCNF:
+    - Serve de atalho para atingir a 1FN,2FN,3FN
+    - Para toda dependencia funcional X -> Z, X é uma super-chave
+-> 4FN:
+    - Não podem existir dependencias funcionais multivaloradas
+-> 5FN:
+    - Não deve existir dependencia funcional ciclica
+    - Deve separar o ciclo de relacionamentos n:n
