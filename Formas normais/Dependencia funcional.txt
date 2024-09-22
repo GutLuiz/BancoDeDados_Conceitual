@@ -1,0 +1,27 @@
+
+  --> O relacionamento entre dois ou mais atributos de forma que o valor de um atributo indentifique o valor para cada um dos outros atributos, Exemplo:
+        - Pelo codigo do cliente eu posso ter o nome do cliente.
+        - Nome é dependente funcionalmente do codigo do cliente.
+
+  --> Parcial: Os atributos "não chave" não dependem funcionalmente de toda a chave primaria quando esta for composta. 
+
+  --> Transitiva: Pelo menos um atributo da tabela depende de outro atrivuto que não seja a chave primaria. 
+
+  --> Multivalorados: Podem conter mais de um valor para um mesmo resgistro.
+
+  --> Atributos compostos: Podem ser subdivididos em varios atributos.
+
+  --> Atomicos: Não podem ser subdivididos e tambem não são Multivalorados (unique)
+
+  --> Multivalorada: Para cada valor de um atributo A, Ha um conjunto de valores para outros atributos B e C que estão associados a ele.
+
+  --> Ciclica: A -> B, B -> C, C -> A
+
+  --> Chaves:
+        - Candidata: Atributo ou grupo de atributos que tem a propriedade de identificar unicamente um resgistro
+        - Super-Chave: É qualquer conjunto de atributos que contem uma chave.
+        - Chave primaria: É uma chave Candidata que foi escolhida para identificar um resgistro.
+
+
+
+
